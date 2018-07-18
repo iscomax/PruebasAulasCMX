@@ -1,0 +1,8 @@
+Instrucciones
+
+Crear una replica de las siguientes páginas web:
+
+1.- https://angular.io/
+2.- https://vuejs.org/
+
+Tienen como fecha de entrega el 31 de Julio hasta donde avancen. Todo esto haciendolo con Angular y componentes.
